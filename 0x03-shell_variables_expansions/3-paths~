@@ -1,0 +1,14 @@
+#!/bin/bash
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+echo $((echo $PATH | grep -o ":/
